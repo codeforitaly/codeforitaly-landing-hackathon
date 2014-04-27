@@ -191,3 +191,11 @@ pre {
 .demo .unit .grid:last-child {
   border-radius: 0 0 5px 5px;
 }
+
+.unit img {
+  max-width: 100%;
+}
+
+.less-great-title h1 {
+  font-size: 3.5em;
+}
